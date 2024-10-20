@@ -1,14 +1,14 @@
 [
   {
     "remark": "自定义用户名, 用于通知中标识用户",
-    "phone": "手机号",
-    "password": "密码",
-    "province": "xx省",
-    "city": "xx市",
-    "area": "xx区",
-    "address": "最终打卡页面显示的文字, xx省 · xx市 · 某路边",
-    "longitude": "经度(精确到小数点后六位)",
-    "latitude": "纬度(精确到小数点后六位)",
+    "phone": "18000317068",
+    "password": "20021213Wc",
+    "province": "河北省",
+    "city": "石家庄市",
+    "area": "新华区",
+    "address": "最终打卡页面显示的文字, 河北省 · 石家庄市 · 中华北大街路边",
+    "longitude": "114.598556(精确到小数点后六位)",
+    "latitude": "38.082262(精确到小数点后六位)",
 
     "randomLocation": true,
     "enable": true,
